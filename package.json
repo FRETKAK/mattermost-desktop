@@ -111,7 +111,7 @@
     "react-dom": "^16.6.3",
     "react-smooth-dnd": "github:mattermost/react-smooth-dnd#af6b471295007274560a375799622c1cd52d678a",
     "react-transition-group": "^2.5.0",
-    "registry-js": "^1.12.0",
+    "registry-js": "^1.15.1",
     "semver": "^5.5.0",
     "underscore": "^1.9.1",
     "valid-url": "^1.0.9",
